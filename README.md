@@ -10,12 +10,12 @@ look back on or extend later on.
 
 ### Client
 
-'''sh
-./client <SERVER_ID> <PORT_NUMBER>
-'''
+``` sh
+./client <SERVER_IP> <PORT_NUMBER>
+```
 
 ### Server
 
-'''sh
+``` sh
 ./server <PORT_NUMBER>
-'''
+```
